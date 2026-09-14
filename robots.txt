@@ -38,4 +38,4 @@ Allow: /
 User-agent: meta-externalagent
 Allow: /
 
-Sitemap: https://blackline-motors.com/sitemap.xml
+Sitemap: https://www.blackline-motors.com/sitemap.xml

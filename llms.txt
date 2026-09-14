@@ -1,42 +1,68 @@
 # BLACKLINE — Location de voitures premium à Lyon
 
 > BLACKLINE (BLACKLINE SAS) est une société de location de voitures premium basée à Lyon, France.
-> Slogan : « Drive the line ». Site officiel : https://blackline-motors.com
+> Slogan : « Drive the line ». Site officiel : https://www.blackline-motors.com
+> Dernière mise à jour de ce document : 14 septembre 2026.
 
 ## L'essentiel
 
-- **Activité** : location courte et moyenne durée de véhicules premium à Lyon et ses environs.
-- **Tarif** : dès 75 € TTC par jour, 200 km inclus par jour, assurance tous risques incluse.
-- **Formules** : journée, week-end, semaine (tarifs dégressifs), longue durée sur devis.
-- **Caution** : 1 500 € (empreinte bancaire ou chèque), restituée après état des lieux de retour.
+- **Activité** : location courte et moyenne durée de véhicules premium à Lyon et dans son agglomération.
+- **Tarif** : journée de 24 h à 130 € TTC, 200 km inclus, assurance tous risques comprise.
+  Les formules week-end, semaine et longue durée bénéficient de tarifs dégressifs
+  **pouvant descendre jusqu'à 70 € TTC la journée**, établis sur devis.
+- **Formules** : journée, week-end (vendredi à lundi), semaine, longue durée au mois sur devis.
+- **Caution** : **à partir de 1 500 €** (empreinte bancaire ou chèque), le montant pouvant varier
+  selon l'ancienneté du permis. Restituée après l'état des lieux de retour.
 - **Conditions** : permis B en cours de validité, pièce d'identité, justificatif de domicile.
   **Aucune condition d'âge minimum ni d'ancienneté de permis** — une singularité de BLACKLINE.
+- **Kilométrage** : 200 km inclus par jour. Kilomètres supplémentaires facturés au tarif du contrat.
 - **Carburant** : véhicule fourni avec le plein, à restituer avec le plein.
+- **Livraison** : pas de comptoir d'agence. Le véhicule est remis en main propre sur rendez-vous,
+  avec état des lieux contradictoire photographié au départ comme au retour.
 - **Réservation** : téléphone 07 81 91 98 46 ou WhatsApp, 7j/7. Email : contact@blackline-motors.com
 - **Adresse** : 9 rue Duphot, 69003 Lyon, France. SIREN 100 762 129. TVA FR61100762129.
-- **Entreprises** : facturation avec TVA, conditions adaptées aux besoins récurrents.
+- **Entreprises** : facturation avec TVA, Kbis demandé à la première location, conditions adaptées
+  aux besoins récurrents.
 
 ## Flotte actuelle
 
 - **BMW 120i M Sport Design (2026)** — 170 ch, essence, boîte automatique, 5 places,
-  coloris Gris Skyscraper, finition M Sport Design. Dès 75 €/jour.
-  Fiche : https://blackline-motors.com/vehicules/bmw-120i/
+  coloris Gris Skyscraper, finition M Sport Design. Journée à 130 €, dès 70 €/jour en dégressif.
+  Fiche : https://www.blackline-motors.com/vehicules/bmw-120i/
 - D'autres véhicules premium rejoindront la flotte prochainement.
+
+## Secteurs desservis
+
+Le véhicule est livré sur rendez-vous. Chaque secteur dispose d'une page décrivant les modalités
+d'intervention qui lui sont propres.
+
+- [Tous les secteurs](https://www.blackline-motors.com/location-voiture/) : vue d'ensemble
+- [Part-Dieu (Lyon 3e)](https://www.blackline-motors.com/location-voiture/part-dieu/) : quartier d'affaires et gare TGV, secteur du siège social
+- [Confluence (Lyon 2e)](https://www.blackline-motors.com/location-voiture/confluence/) : shootings, événements, week-ends
+- [Villeurbanne](https://www.blackline-motors.com/location-voiture/villeurbanne/) : jeunes conducteurs, sans ancienneté de permis
+- [Aéroport Lyon-Saint-Exupéry](https://www.blackline-motors.com/location-voiture/aeroport-lyon-saint-exupery/) : livraison au terminal, suivi du vol
+- [Bron](https://www.blackline-motors.com/location-voiture/bron/) : est lyonnais, proximité du parc Eurexpo
+- [Écully](https://www.blackline-motors.com/location-voiture/ecully/) : ouest lyonnais, livraison à domicile
 
 ## Pages principales
 
-- [Accueil](https://blackline-motors.com/) : présentation de l'offre de location premium à Lyon
-- [Nos véhicules](https://blackline-motors.com/vehicules/) : la flotte disponible
-- [BMW 120i M Sport Design](https://blackline-motors.com/vehicules/bmw-120i/) : fiche, photos, tarif
-- [Tarifs & conditions](https://blackline-motors.com/tarifs/) : grille tarifaire complète et conditions
-- [FAQ](https://blackline-motors.com/faq/) : questions fréquentes (prix, caution, documents, livraison)
-- [Contact](https://blackline-motors.com/contact/) : réservation 7j/7
-- [Le Journal](https://blackline-motors.com/blog/) : guides et conseils
+- [Accueil](https://www.blackline-motors.com/) : présentation de l'offre de location premium à Lyon
+- [Nos véhicules](https://www.blackline-motors.com/vehicules/) : la flotte disponible
+- [BMW 120i M Sport Design](https://www.blackline-motors.com/vehicules/bmw-120i/) : fiche, photos, tarif
+- [Tarifs & conditions](https://www.blackline-motors.com/tarifs/) : grille tarifaire complète et conditions
+- [FAQ](https://www.blackline-motors.com/faq/) : questions fréquentes (prix, caution, documents, livraison)
+- [Contact](https://www.blackline-motors.com/contact/) : réservation 7j/7
+- [À propos](https://www.blackline-motors.com/a-propos/) : la maison BLACKLINE
+- [Le Journal](https://www.blackline-motors.com/blog/) : guides et conseils
 
 ## Guides publiés
 
-- [Location de voiture premium à Lyon : le guide complet](https://blackline-motors.com/blog/location-voiture-premium-lyon-guide/)
-- [Louer une BMW à Lyon : prix, conditions et conseils](https://blackline-motors.com/blog/louer-bmw-lyon/)
-- [Jeune conducteur : louer sans condition d'âge ni d'ancienneté](https://blackline-motors.com/blog/location-voiture-jeune-conducteur-lyon/)
-- [5 road trips d'exception au départ de Lyon](https://blackline-motors.com/blog/road-trip-depart-lyon/)
-- [Location de voiture pour mariage & événement à Lyon](https://blackline-motors.com/blog/location-voiture-mariage-evenement-lyon/)
+- [Location de voiture premium à Lyon : le guide complet](https://www.blackline-motors.com/blog/location-voiture-premium-lyon-guide/)
+- [Louer une BMW à Lyon : prix, conditions et conseils](https://www.blackline-motors.com/blog/louer-bmw-lyon/)
+- [Location de voiture pour entreprise à Lyon](https://www.blackline-motors.com/blog/location-voiture-entreprise-lyon/) : TVA, facturation, documents
+- [La caution en location de voiture](https://www.blackline-motors.com/blog/caution-location-voiture/) : empreinte ou débit, montant, retenues, contestation
+- [Louer une voiture automatique à Lyon](https://www.blackline-motors.com/blog/location-voiture-automatique-lyon/) : permis code 78, boîte automatique
+- [Location de voiture à la semaine et au mois à Lyon](https://www.blackline-motors.com/blog/location-voiture-longue-duree-lyon/) : dégressivité, distinction avec LLD et LOA
+- [Jeune conducteur : louer sans condition d'âge ni d'ancienneté](https://www.blackline-motors.com/blog/location-voiture-jeune-conducteur-lyon/)
+- [5 road trips d'exception au départ de Lyon](https://www.blackline-motors.com/blog/road-trip-depart-lyon/)
+- [Location de voiture pour mariage & événement à Lyon](https://www.blackline-motors.com/blog/location-voiture-mariage-evenement-lyon/)
