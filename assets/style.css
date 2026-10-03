@@ -14,7 +14,7 @@
   --line:       rgba(204,203,209,.14);
   --line-strong:rgba(204,203,209,.28);
   --silver:     #CCCBD1;
-  --silver-dim: #8E8EA0;
+  --silver-dim: #A9A9BB;
   --white:      #FFFFFF;
   --wa:         #25D366;
 
@@ -41,7 +41,7 @@ body{
   color:var(--silver);
   background:var(--ink);
   line-height:1.65;
-  font-weight:300;
+  font-weight:400;
   letter-spacing:.01em;
   overflow-x:hidden;
   -webkit-font-smoothing:antialiased;
@@ -236,13 +236,14 @@ body.menu-open .mmenu{ transform:none; opacity:1; pointer-events:auto; }
 /* ---------- Hero ---------- */
 .hero{ position:relative; min-height:100svh; display:flex; align-items:center; overflow:hidden; }
 .hero__media{ position:absolute; inset:0; z-index:-1; }
-.hero__media img{ width:100%; height:100%; object-fit:cover; object-position:center 60%; opacity:.55; }
+.hero__media img{ width:100%; height:100%; object-fit:cover; object-position:center 60%; opacity:.9; }
 .hero__media::after{
   content:""; position:absolute; inset:0;
   background:
-    linear-gradient(180deg, rgba(2,4,15,.55) 0%, rgba(2,4,15,.35) 40%, rgba(2,4,15,.92) 92%),
-    linear-gradient(90deg, rgba(2,4,15,.85) 0%, rgba(2,4,15,.25) 55%, transparent 100%);
+    linear-gradient(180deg, rgba(2,4,15,.62) 0%, rgba(2,4,15,.18) 26%, rgba(2,4,15,.06) 42%, rgba(2,4,15,.74) 94%),
+    linear-gradient(90deg, rgba(2,4,15,.78) 0%, rgba(2,4,15,.30) 38%, rgba(2,4,15,.08) 62%, transparent 100%);
 }
+.hero .eyebrow{ color:var(--silver); text-shadow:0 1px 14px rgba(2,4,15,.7); }
 .hero__inner{ padding-top:96px; padding-bottom:64px; }
 .hero__title{ font-size:clamp(3rem,11vw,8rem); margin:22px 0 8px; }
 .hero__title .line{ display:block; overflow:hidden; }
@@ -343,8 +344,9 @@ a.car .car__cta svg{ width:14px; height:14px; }
 
 /* ---------- Steps ---------- */
 .steps{ display:grid; grid-template-columns:repeat(auto-fit,minmax(220px,1fr)); gap:28px; }
-.step{ position:relative; padding-top:20px; }
-.step .n{ font-family:var(--font-brand); font-size:2.4rem; color:transparent; -webkit-text-stroke:1px var(--line-strong); line-height:1; margin-bottom:14px; }
+.step{ position:relative; padding-top:30px; border-top:1px solid var(--line-strong); }
+.step::before{ content:""; position:absolute; top:-4px; left:0; width:7px; height:7px; border-radius:50%; background:var(--silver); box-shadow:0 0 12px rgba(204,203,209,.55); }
+.step .n{ font-family:var(--font-brand); font-size:2.4rem; background:var(--chrome); -webkit-background-clip:text; background-clip:text; color:transparent; -webkit-text-stroke:0; opacity:.95; line-height:1; margin-bottom:14px; }
 .step h4, .step h3{ color:var(--white); font-size:1rem; font-weight:500; margin-bottom:8px; }
 .step p{ font-size:.88rem; color:var(--silver-dim); }
 
@@ -554,7 +556,7 @@ a.car .car__cta svg{ width:14px; height:14px; }
 
   /* Héro mobile : contenu ancré en bas, image plus visible */
   .hero{ min-height:92svh; align-items:flex-end; }
-  .hero__media img{ opacity:.7; object-position:center 38%; }
+  .hero__media img{ opacity:.85; object-position:center 38%; }
   .hero__inner{ padding-bottom:88px; }
   .hero__scroll{ display:none; }
 
