@@ -1,0 +1,25 @@
+name: IndexNow
+
+# Après chaque mise en ligne, signale toutes les URL du sitemap à Bing (et aux
+# autres moteurs IndexNow). Le resoumettre sans changement est sans conséquence.
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Attendre le déploiement Vercel
+        run: sleep 120
+      - name: Soumettre le sitemap à IndexNow
+        env:
+          HOST: www.blackline-motors.com
+          KEY: f96094723d9a034e72d13d5575e4c9cb
+        run: |
+          urls=$(curl -fsS "https://$HOST/sitemap.xml" | grep -o '<loc>[^<]*</loc>' | sed -e 's#<loc>##' -e 's#</loc>##' | sed 's/.*/"&"/' | paste -sd, -)
+          body="{\"host\":\"$HOST\",\"key\":\"$KEY\",\"keyLocation\":\"https://$HOST/$KEY.txt\",\"urlList\":[$urls]}"
+          code=$(curl -sS -o /dev/null -w '%{http_code}' -X POST https://api.indexnow.org/indexnow -H 'Content-Type: application/json; charset=utf-8' -d "$body")
+          echo "IndexNow HTTP $code"
+          case "$code" in 200|202) ;; *) exit 1 ;; esac
