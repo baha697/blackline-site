@@ -1,4 +1,4 @@
-# BLACKLINE — blackline-motors.com
+# BLACKLINE · blackline-motors.com
 # Tous les robots sont les bienvenus, y compris les robots d'indexation IA.
 
 User-agent: *

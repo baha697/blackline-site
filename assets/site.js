@@ -1,5 +1,5 @@
 /* ============================================================
-   BLACKLINE — interactions (header, menu, reveal, lightbox)
+   BLACKLINE · interactions (header, menu, reveal, lightbox)
    Le balisage header/footer est statique dans chaque page (SEO).
    ============================================================ */
 (function () {
