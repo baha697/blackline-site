@@ -1,5 +1,5 @@
 /* ============================================================
-   BLACKLINE — Suivi des conversions
+   BLACKLINE · Suivi des conversions
    ------------------------------------------------------------
    Mesure les trois actions qui comptent : clic sur le telephone,
    sur WhatsApp, sur l'email.
